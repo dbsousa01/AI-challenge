@@ -1,4 +1,4 @@
-# AI coding challenge
+# AI coding challenge - NLP
 
 ## Description
 
